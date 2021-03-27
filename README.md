@@ -1,7 +1,7 @@
 # Progress Steps
 
 ## Table of Contents
-- [Expanding Cards](#expanding-cards)
+- [Progress Steps](#progress-steps)
   - [Table of Contents](#table-of-contents)
   - [Purpose](#purpose)
   - [Final Product](#final-product)
@@ -17,8 +17,8 @@ This webpage allows the user to interact with a progress bar of "steps" via two 
 
 ## Final Product
 
-![sample of project](./attachments/Capture1.PNG)
-![video sample of project](./attachments/Expanding-Cards-Work-Microsoft-E.gif)
+![sample of project](./attachments/Capture2.PNG)
+![video sample of project](./attachments/Progress-Steps-and-4-more-pages.gif)
 
 ## Technologies
 
